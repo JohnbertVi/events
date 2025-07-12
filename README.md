@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Event Organizer Static Page
+
+This project is a static event organizer page designed for party or event needs.  
+It provides a simple, static interface for organizing and showcasing event details.  
+**Note:** This project contains only static pages and does not include backend or dynamic functionality.
 
 ## Getting Started
 
